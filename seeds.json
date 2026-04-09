@@ -1,0 +1,11 @@
+{
+  "fields": ["time", "open", "high", "low", "close", "volume"],
+  "data": {
+    "NIFTY_STRENGTH": {
+      "name": "Nifty OI Strength",
+      "description": "Real-time Nifty OI Strength 0-100% via Finvasia",
+      "type": "UDF",
+      "file": "data/NIFTY_STRENGTH.csv"
+    }
+  }
+}
